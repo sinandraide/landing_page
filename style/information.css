@@ -1,0 +1,28 @@
+.information {
+  padding-bottom: 150px;
+}
+.info-title {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 750;
+  text-align: center;
+}
+
+.info-blocks {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+.info-block {
+  flex-basis: 150px;
+  text-wrap: wrap;
+  text-align: center;
+}
+.block {
+  height: 150px;
+  background-color: white;
+  border: 3px solid rgb(59, 146, 226);
+  border-radius: 12px;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,26 @@
+.quote {
+  background-color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 150px;
+}
+
+.text-card {
+  flex: 0 1 700px;
+}
+
+.text-quote {
+  text-align: justify;
+  font-style: italic;
+  color: #1f2937;
+  font-size: 31px;
+  margin-bottom: 8px;
+}
+.signature {
+  text-align: right;
+  color: #1f2937;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 0;
+}
